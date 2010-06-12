@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<?xml-stylesheet type="text/xsl" href="empathy-log.xsl"?>
-<log>
-	<message time="20100612T13:24:25" cm_id="0" id="tcsavage@live.co.uk" name="tcsavage@live.co.uk" token="" isuser="false" type="normal">Hello live!</message>
-	<message time="20100612T13:25:50" cm_id="0" id="daboomonline@gmail.com" name="Tom" token="" isuser="true" type="normal">howdy</message>
-	<message time="20100612T13:26:31" cm_id="0" id="daboomonline@gmail.com" name="Tom" token="" isuser="true" type="normal">Test msg</message>
-	<message time="20100612T13:26:34" cm_id="1" id="tcsavage@live.co.uk" name="tcsavage@live.co.uk" token="" isuser="false" type="normal">Test</message>
-	<message time="20100612T13:26:37" cm_id="2" id="tcsavage@live.co.uk" name="tcsavage@live.co.uk" token="" isuser="false" type="normal">Test 2</message>
-</log>
