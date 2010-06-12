@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <message time="20100612T13:24:25" id="tcsavage@live.co.uk" name="tcsavage@live.co.uk">Hello live!</message>
+  <message time="20100612T13:25:50" id="daboomonline@gmail.com" name="Tom">howdy</message>
+  <message time="20100612T13:26:31" id="daboomonline@gmail.com" name="Tom">Test msg</message>
+  <message time="20100612T13:26:34" id="tcsavage@live.co.uk" name="tcsavage@live.co.uk">Test</message>
+  <message time="20100612T13:26:37" id="tcsavage@live.co.uk" name="tcsavage@live.co.uk">Test 2</message>
+</log>
