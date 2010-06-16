@@ -23,6 +23,7 @@ namespace EmpathyLogToHtml
 		
 		public Individual ()
 		{
+			if (colorIndex == colorSelection.Length) {colorIndex=0;}
 			this.color=colorSelection[colorIndex];
 			colorIndex++;
 		}
